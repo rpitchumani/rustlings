@@ -1,7 +1,7 @@
 #!/usr/bin/env pwsh
 
 #Requires -Version 5
-param($path = "$home/rustlings")
+param($path = "D:/GitHub/rpitchumani/rustlings")
 
 Write-Host "Let's get you set up with Rustlings!"
 
